@@ -1,0 +1,6 @@
+lib
+docs
+.*
+docs.conf.json
+dev
+*.mock
